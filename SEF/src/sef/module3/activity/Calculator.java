@@ -9,10 +9,10 @@ package sef.module3.activity;
  */
 public class Calculator {
 		
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		
-	int x = 10;
-	int y = 5;
+	int x = 0;
+	int y = 0;
 	
 	int[] nums = {1, 2, 3, 4};
 	
@@ -33,8 +33,10 @@ public class Calculator {
 		int diff = 0;
 		if (x > y) {
 			// complete the code
+			diff = x - y;
 		} else {
 			// complete the code
+			diff = y - x;
 		}
 
 		return diff;
@@ -50,15 +52,21 @@ public class Calculator {
 
 	}
 
-	private static int divide(int x, int y) {
+	private static int divide(int x, int y) throws Exception {
 		int divValue = 0;
 		if (x == 0 || y == 0) {
 			// complete the code
+			if (x == 0 && y == 0) throw new Exception("Not possible to devide by 0");
+			if (x == 0) {
+				divValue = x / y;
+			} else {
+				divValue = y / x;
+			}
 		} else {
 			// complete the code
+			divValue = x / y;
 		}
 		return divValue;
-
 	}
 	
 }

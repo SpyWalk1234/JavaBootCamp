@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb63e7c5-82ec-4585-90b6-4c466cdb77fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Employee_I.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Employee_I.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/InheritanceActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/InheritanceActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Person_I.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Person_I.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/activity/TryCatchFinallyActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/activity/TryCatchFinallyActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/TryCatchFinallySample.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/TryCatchFinallySample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Employee_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Employee_I.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module6/activity/InheritanceActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module6/activity/InheritanceActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Person_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Person_I.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/activity/TryCatchFinallyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/activity/TryCatchFinallyActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/sample/TryCatchFinallySample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/sample/TryCatchFinallySample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1doAWHNWSUNdpBEHRagbUk3q29X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb63e7c5-82ec-4585-90b6-4c466cdb77fb" name="Default Changelist" comment="" />
+      <created>1593081104444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593081104444</updated>
+    </task>
+    <servers />
+  </component>
+</project>

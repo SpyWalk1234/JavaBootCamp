@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb63e7c5-82ec-4585-90b6-4c466cdb77fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Employee_I.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Employee_I.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/InheritanceActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/InheritanceActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Person_I.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Person_I.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module6/activity/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/activity/TryCatchFinallyActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/activity/TryCatchFinallyActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/TryCatchFinallySample.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/TryCatchFinallySample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Employee_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Employee_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module6/activity/InheritanceActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module6/activity/InheritanceActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Person_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Person_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module6/activity/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/activity/TryCatchFinallyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/activity/TryCatchFinallyActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/sample/TryCatchFinallySample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/sample/TryCatchFinallySample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/AssertSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/AssertSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/CustomException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/CustomExceptionSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/CustomExceptionSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/ExceptionDeclarationSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/ExceptionDeclarationSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/sample/AssertSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/sample/AssertSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/sample/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/sample/CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/sample/CustomExceptionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/sample/CustomExceptionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/sample/ExceptionDeclarationSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/sample/ExceptionDeclarationSample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -6,6 +6,7 @@ class Employee {
 	String firstName;
 	String lastName;
 	int salary;
+	
 	public String getId() {
 		return id;
 	}
@@ -29,7 +30,5 @@ class Employee {
 	}
 	public void setSalary(int salary) {
 		this.salary = salary;
-	}
-	
-	
+	}	
 }

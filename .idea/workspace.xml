@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb63e7c5-82ec-4585-90b6-4c466cdb77fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/AssertSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/AssertSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/CustomException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/CustomExceptionSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/CustomExceptionSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/ExceptionDeclarationSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module8/sample/ExceptionDeclarationSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/sample/AssertSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/sample/AssertSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/sample/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/sample/CustomException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/sample/CustomExceptionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/sample/CustomExceptionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module8/sample/ExceptionDeclarationSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module8/sample/ExceptionDeclarationSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module17/activity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module17/activity/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module17/activity/EmployeeJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module17/activity/EmployeeJDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/bin/sef/module17/activity/EmployeeJDBCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/bin/sef/module17/activity/EmployeeJDBCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module17/activity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module17/activity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEF/src/sef/module17/activity/EmployeeJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEF/src/sef/module17/activity/EmployeeJDBC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
